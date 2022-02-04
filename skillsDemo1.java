@@ -1,3 +1,6 @@
 public class skillsDemo1 {
-  // create class on GitHub, want to move to VSCode
+  public static int multiply(int x, int y) {
+    return x*y;
+}
+
 }
